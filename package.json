@@ -1,8 +1,8 @@
 {
-  "name": "atm-machine",
-  "version": "1.0.0",
+  "name": "your_atm-machine",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "bin": "main.js",
   "scripts": {
